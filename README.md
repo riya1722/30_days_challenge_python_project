@@ -2,7 +2,7 @@
 
 # 30_days_challenge_python_project
 
-# Day 1 project
+ #Day 1 project
 # 🎰 Slot Machine Game with Auto Spin 
 
 This is a Python-based Slot Machine game with different functionalities mentioned below. It simulates a real slot machine with the addition of an auto-spin mode .
