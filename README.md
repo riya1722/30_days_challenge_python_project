@@ -34,6 +34,18 @@ This mini Python project generates a **custom QR code** using the `qrcode` libra
 - Save the QR code as an image (`.png`)
 
 ---
+# 📧 Day 3 – Email Validator Web App using Flask & Python
+
+
+## 🚀 Features
+
+- ✅ Validates structure and format of email addresses
+- ✅ Provides real-time feedback to the user
+- 🌐 Web interface using HTML and Flask templating
+- 🔁 Reloads the page with success/error message
+- 🧪 Basic error handling and input sanitization
+
+---
 
 ## 🛠️ Requirements
 
